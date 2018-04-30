@@ -1,0 +1,19 @@
+{
+  "name": "google_tasks",
+  "version": "1.0.0",
+  "description": "A desktop client for Google Tasks",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/thomas6886/GoogleTasks",
+  "keywords": [
+    "Electron",
+    "Google Tasks"
+  ],
+  "author": "Thomas Booijink",
+  "license": "MIT License",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
