@@ -12,7 +12,7 @@
     "Google Tasks"
   ],
   "author": "Thomas Booijink",
-  "license": "MIT License",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^1.8.4"
   }
